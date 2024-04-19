@@ -10,6 +10,8 @@ Oferecemos uma variedade de bots do Discord que podem ser integrados a vários a
 
 - Minecraft
 - League of Legends
+- Comunidades
+- GTA RP
 - E muitos outros...
 
 ## Como Comprar
