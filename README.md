@@ -19,7 +19,7 @@ Oferecemos uma variedade de bots do Discord que podem ser integrados a vários a
 Para comprar um de nossos bots, siga estas etapas:
 
 1. Escolha o bot que você deseja na nossa lista de produtos.
-2. Entre em contato conosco através do nosso canal de atendimento ao cliente no [Discord](https://discord.gg/EtZEJyZymG).
+2. Entre em contato conosco através do nosso canal de atendimento ao cliente no [Discord](https://discord.gg/BwsFZWpTQX).
 3. Forneça detalhes sobre o bot que você deseja e qualquer personalização necessária.
 4. Realize sua Assinatura através dos métodos por PIX, Boletos, PayPal ou Mercado Pago.
 5. Receba seu bot e aproveite!
